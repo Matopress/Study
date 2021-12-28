@@ -1,0 +1,25 @@
+body{
+    background-color: yellow;
+    margin: 0;
+    padding: 0;
+}
+div{
+    margin: auto;
+    width: 60%;
+    height: 500px;
+    background-color: blue;
+    text-align: center;
+    padding: 5%;
+}
+h1{
+    color: #fff;
+    font-family: 'Lato', sans-serif;
+    font-style: italic;
+    font-weight: 600;
+}
+p{
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+    color: whitesmoke;
+
+}
